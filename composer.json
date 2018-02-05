@@ -32,7 +32,7 @@
         "contao-legacy/cfg_instagram": "self.version"
     },
     "autoload":{
-        "psr-0": {
+        "psr-4": {
             "Codefog\\Instagram\\": "src"
         }
     },
